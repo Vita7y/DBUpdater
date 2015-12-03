@@ -1,0 +1,12 @@
+H:\src\git\ecco\_RES\GM_DBUpdate.cfg
+H:\src\git\ecco\_RES\GM_DBUpdate.exe
+H:\src\git\ecco\_RES\GM_DBUpdate.pdb
+H:\src\git\ecco\GM_DbUpdater\GM_DbUpdater\obj\x86\Debug\GM_DBUpdate.exe
+H:\src\git\ecco\GM_DbUpdater\GM_DbUpdater\obj\x86\Debug\GM_DBUpdate.pdb
+H:\src\git\ecco\GM_DbUpdater\GM_DbUpdater\obj\x86\Debug\GM_DBUpdate.csprojResolveAssemblyReference.cache
+H:\src\ecco\_RES\GM_DBUpdate.cfg
+H:\src\ecco\_RES\GM_DBUpdate.exe
+H:\src\ecco\_RES\GM_DBUpdate.pdb
+H:\src\ecco\GM_DbUpdater\GM_DbUpdater\obj\x86\Debug\GM_DBUpdate.exe
+H:\src\ecco\GM_DbUpdater\GM_DbUpdater\obj\x86\Debug\GM_DBUpdate.pdb
+H:\src\ecco\GM_DbUpdater\GM_DbUpdater\obj\x86\Debug\GM_DBUpdate.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Src\Filuet\_RES\DBUpdate.cfg
+C:\Src\Filuet\_RES\DBUpdate.exe
+C:\Src\Filuet\_RES\DBUpdate.pdb
+C:\Src\Filuet\DbUpdater\DbUpdater\obj\x86\Debug\DBUpdate.exe
+C:\Src\Filuet\DbUpdater\DbUpdater\obj\x86\Debug\DBUpdate.pdb
+C:\Src\Filuet\DbUpdater\DbUpdater\Debug\DBUpdate.cfg
+C:\Src\Filuet\DbUpdater\DbUpdater\Debug\DBUpdate.exe
+C:\Src\Filuet\DbUpdater\DbUpdater\Debug\DBUpdate.pdb
+C:\Src\Filuet\DbUpdater\DbUpdater\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Src\Filuet\DbUpdater\DbUpdater\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Src\Filuet\DbUpdater\DbUpdater\Debug\Microsoft.SqlServer.Smo.dll
